@@ -1,0 +1,45 @@
+{
+    "users": [
+      {
+        "id":1,
+        "company":"Nasir",
+        "email":"nasir@zapta.com",
+        "status":"Active",
+        "month":"December",
+        "createdon":"22-Dec-2021"
+      },
+      {
+        "id":2,
+        "company":"pdf",
+        "email":"pdf@zapta.com",
+        "status":"Active",
+        "month":"December",
+        "createdon":"22-Dec-2021"
+      },
+      {
+        "id":3,
+        "company":"company",
+        "email":"company@zapta.com",
+        "status":"Active",
+        "month":"December",
+        "createdon":"22-Dec-2021"
+      },
+      {
+        "id":4,
+        "company":"Abdul",
+        "email":"abdul@zapta.com",
+        "status":"Active",
+        "month":"December",
+        "createdon":"22-Dec-2021"
+      },
+      {
+        "id":5,
+        "company":"Nasir",
+        "email":"nasir@gmail.com",
+        "status":"Active",
+        "month":"December",
+        "createdon":"22-Dec-2021"
+      }
+    ]
+
+  }
